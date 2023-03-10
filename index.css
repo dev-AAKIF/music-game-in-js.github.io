@@ -11,31 +11,31 @@ h1{
 }
 
 .Sa{
-    background-image: url("/assets/images/tom1.png");
+    background-image: url("./assets/images/tom1.png");
 }
 
 .Re{
-    background-image: url("/assets/images/tom2.png");
+    background-image: url("./assets/images/tom2.png");
 }
 
 .Ga{
-    background-image: url("/assets/images/tom3.png");
+    background-image: url("./assets/images/tom3.png");
 }
 
 .Ma{
-    background-image: url("/assets/images/tom4.png");
+    background-image: url("./assets/images/tom4.png");
 }
 
 .Pa{
-    background-image: url("/assets/images/snare.png");
+    background-image: url("./assets/images/snare.png");
 }
 
 .Dha{
-    background-image: url("/assets/images/crash.png");
+    background-image: url("./assets/images/crash.png");
 }
 
 .Ni{
-    background-image: url("/assets/images/kick.png");
+    background-image: url("./assets/images/kick.png");
 }
 
 .drum{

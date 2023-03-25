@@ -12,31 +12,31 @@ h1{
 }
 
 .s{
-    background-image: url("/assets/images/tom1.png");
+    background-image: url("./assets/images/tom1.png");
 }
 
 .r{
-    background-image: url("/assets/images/tom2.png");
+    background-image: url("./assets/images/tom2.png");
 }
 
 .g{
-    background-image: url("/assets/images/tom3.png");
+    background-image: url("./assets/images/tom3.png");
 }
 
 .m{
-    background-image: url("/assets/images/tom4.png");
+    background-image: url("./assets/images/tom4.png");
 }
 
 .p{
-    background-image: url("/assets/images/snare.png");
+    background-image: url("./assets/images/snare.png");
 }
 
 .d{
-    background-image: url("/assets/images/crash.png");
+    background-image: url("./assets/images/crash.png");
 }
 
 .n{
-    background-image: url("/assets/images/kick.png");
+    background-image: url("./assets/images/kick.png");
 }
 
 .drum{

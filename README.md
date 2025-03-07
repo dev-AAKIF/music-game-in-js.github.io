@@ -1,5 +1,4 @@
 # music-game-in-js.github.io
 
 
-
-https://dev-aakif.github.io/music-game-in-js.github.io/
+https://music-game-in-js.vercel.app/
